@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.32630.194
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "azsamplewebapp1", "azsamplewebapp1.csproj", "{4EECAAD4-7250-4CFA-8957-53411D7E0A26}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "azsamplewebapp1", "azsamplewebapp1.csproj", "{4EECAAD4-7250-4CFA-8957-53411D7E0A26}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

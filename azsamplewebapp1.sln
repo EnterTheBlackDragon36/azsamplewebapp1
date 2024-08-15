@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.34916.146
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "azsamplewebapp1", "azsamplewebapp1.csproj", "{4EECAAD4-7250-4CFA-8957-53411D7E0A26}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureADIntegration", "..\AzureADIntegration\AzureADIntegration.csproj", "{7FC662A7-759F-44AE-A2A9-2631842BF699}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4EECAAD4-7250-4CFA-8957-53411D7E0A26}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EECAAD4-7250-4CFA-8957-53411D7E0A26}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EECAAD4-7250-4CFA-8957-53411D7E0A26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FC662A7-759F-44AE-A2A9-2631842BF699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FC662A7-759F-44AE-A2A9-2631842BF699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FC662A7-759F-44AE-A2A9-2631842BF699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FC662A7-759F-44AE-A2A9-2631842BF699}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
